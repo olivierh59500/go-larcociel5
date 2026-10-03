@@ -3,6 +3,27 @@
 A Go/Ebitengine conversion of **DMA Intro 5**, an Atari ST intro by
 **Larcociel of DMA**, using Demo Construction Kit **v1.0.13**.
 
+<!-- Project showcase -->
+## Screenshots
+
+[![Batman music meters, a moving ribbon, and scrolltext receding into a perspective floor](docs/media/screenshot-1.png)](docs/media/screenshot-1.png)
+
+Batman music meters, a moving ribbon, and scrolltext receding into a perspective floor.
+
+## Video
+
+[![Animated preview of Larcociel 5 Go](docs/media/preview.gif)](https://github.com/olivierh59500/go-larcociel5/raw/refs/heads/main/docs/media/preview.mp4)
+
+**[Watch or download the 24-second MP4 preview with sound](https://github.com/olivierh59500/go-larcociel5/raw/refs/heads/main/docs/media/preview.mp4)**
+
+This preview is captured from the Go production.
+
+The animated image is silent; the MP4 includes the soundtrack.
+
+<!-- End project showcase -->
+
+## Production notes
+
 ```sh
 go run ./cmd/larcociel5
 go run ./cmd/larcociel5 -mute
